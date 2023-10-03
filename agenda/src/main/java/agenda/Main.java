@@ -39,7 +39,7 @@ public class Main {
 			 System.out.println("Seleccione una opción:");
 	         System.out.println("1. Buscar por código de usuario");
 	         System.out.println("2. Buscar por nombre");
-	         System.out.println("3. Mostrar la agenda completa");
+	         System.out.println("3. Mostrar la agenda ");
 	         System.out.println("4. Añadir un contacto");
 	         System.out.println("5. Borrar un contacto");
 	         System.out.println("6. Salir");
